@@ -1,0 +1,11 @@
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+.venv
+env
+venv
+mlruns
+memory_store.db
+.git
+.gitignore

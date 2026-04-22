@@ -1,0 +1,21 @@
+text,intent
+Outlook is not sending emails,outlook_email_issue
+I cannot receive mails in Outlook,outlook_email_issue
+My mailbox is full and emails are bouncing,outlook_email_issue
+Outlook keeps asking for password,outlook_email_issue
+Teams microphone is not working,teams_audio_issue
+I cannot hear others in Teams meeting,teams_audio_issue
+Teams camera is not detected,teams_video_issue
+My Teams meeting keeps disconnecting,teams_connectivity_issue
+I cannot access the shared folder,access_issue
+Access denied when opening finance drive,access_issue
+VPN connection keeps failing,vpn_issue
+VPN gets disconnected every 5 minutes,vpn_issue
+Password reset link is not working,password_reset_issue
+I forgot my password and cannot login,password_reset_issue
+Laptop shows blue screen after login,system_error
+System is very slow after latest update,system_error
+Printer is offline and not printing,printer_issue
+Unable to connect to office wifi,network_issue
+MFA code is not coming to my phone,mfa_issue
+I cannot login to SAP after password change,application_login_issue

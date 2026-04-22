@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "title": "Outlook Send Failure Troubleshooting",
+    "category": "outlook_email_issue",
+    "content": "If Outlook is not sending emails, verify internet connectivity, check whether Outlook is in offline mode, confirm mailbox storage is not full, validate SMTP settings, and restart Outlook. If the issue persists, re-create the mail profile or escalate to messaging support.",
+    "tags": ["outlook", "email", "smtp"]
+  },
+  {
+    "id": 2,
+    "title": "Outlook Login Prompt Issue",
+    "category": "outlook_email_issue",
+    "content": "If Outlook repeatedly asks for a password, check cached credentials, verify account lock status, test webmail access, and clear credential manager entries before signing in again.",
+    "tags": ["outlook", "password", "login"]
+  },
+  {
+    "id": 3,
+    "title": "Teams Microphone Troubleshooting",
+    "category": "teams_audio_issue",
+    "content": "If Teams microphone is not working, confirm microphone permissions in OS settings, verify the correct input device is selected in Teams, run a Teams test call, update audio drivers, and test on the web version of Teams.",
+    "tags": ["teams", "audio", "microphone"]
+  },
+  {
+    "id": 4,
+    "title": "Teams Camera Not Detected",
+    "category": "teams_video_issue",
+    "content": "If Teams camera is not detected, check privacy permissions, confirm no other application is using the camera, reconnect external webcam, update drivers, and test camera access in system settings.",
+    "tags": ["teams", "camera", "video"]
+  },
+  {
+    "id": 5,
+    "title": "Teams Connectivity Drops",
+    "category": "teams_connectivity_issue",
+    "content": "If Teams calls disconnect frequently, verify network stability, test with wired connection, check VPN interference, clear Teams cache, and compare behavior on browser-based Teams.",
+    "tags": ["teams", "connectivity", "meeting"]
+  },
+  {
+    "id": 6,
+    "title": "Shared Folder Access Issue",
+    "category": "access_issue",
+    "content": "If a user cannot access a shared folder, verify NTFS and share permissions, check Active Directory group membership, confirm mapped drive path, and test server availability.",
+    "tags": ["access", "folder", "permissions"]
+  },
+  {
+    "id": 7,
+    "title": "VPN Troubleshooting Guide",
+    "category": "vpn_issue",
+    "content": "If VPN connection fails, verify internet access, check user credentials, confirm VPN client version, validate MFA approval, and review whether local firewall is blocking the VPN tunnel.",
+    "tags": ["vpn", "network", "remote"]
+  },
+  {
+    "id": 8,
+    "title": "Password Reset Support",
+    "category": "password_reset_issue",
+    "content": "If password reset is not working, verify identity checks, confirm the reset token has not expired, ensure account is not locked, and test login through web portal after reset.",
+    "tags": ["password", "reset", "account"]
+  },
+  {
+    "id": 9,
+    "title": "System Blue Screen Basic Checks",
+    "category": "system_error",
+    "content": "If the system shows a blue screen, capture the error code, boot in safe mode if possible, review recent driver or patch changes, run disk and memory checks, and escalate to endpoint engineering if repeated.",
+    "tags": ["system", "bsod", "error"]
+  },
+  {
+    "id": 10,
+    "title": "Printer Offline Resolution",
+    "category": "printer_issue",
+    "content": "If a printer is offline, verify printer power and network, confirm print spooler service is running, remove stuck jobs, and reinstall the printer if needed.",
+    "tags": ["printer", "offline", "spooler"]
+  }
+]

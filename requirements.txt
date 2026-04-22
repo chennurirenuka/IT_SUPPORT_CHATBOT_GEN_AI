@@ -1,0 +1,17 @@
+fastapi
+uvicorn
+pydantic
+python-dotenv
+scikit-learn
+pandas
+numpy
+joblib
+sentence-transformers
+faiss-cpu
+openai
+httpx
+pytest
+streamlit
+mlflow
+redis
+pinecone
